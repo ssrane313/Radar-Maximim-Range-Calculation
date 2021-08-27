@@ -34,8 +34,11 @@ c = 3*10^8;
 lamda = c / fc;
 
 %TODO : Measure the Maximum Range a Radar can see. 
+
 num = Ps * G * G * lamda * lamda * RCS;
+
 den = Pe * (4*pi)^3;
+
 r = num/den;
 
 range = nthroot(r,4);
