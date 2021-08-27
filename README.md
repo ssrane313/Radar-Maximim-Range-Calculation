@@ -5,9 +5,15 @@ Use MATLAB to calculate maximum RADAR range.
 
 
 R - Maximum Range a radar can detect targets.
+
 Ps- Transmitted Power from Radar 
+
 G- Gain of the Transmit/Receive Antenna 
+
 lamda - Wavelength of the signal 
+
 RCS - radar cross section 
+
 Pe- Minimum received power radar can detect.
+
 fc - operating frequency
